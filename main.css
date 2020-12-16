@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('./fonts/Avenir-Book.ttf') format('truetype');
+}
+
+body {
+    width: 80%;
+    margin: auto;
+    background-color: #222222;
+    color: white;
+    font-family: 'Avenir LT Std';
+    line-height: 1.5rem;
+}
+
+a {
+    color: tomato;
+}
+
+a:visited {
+    color: tomato;
+}
